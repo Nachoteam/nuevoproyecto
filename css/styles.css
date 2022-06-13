@@ -1,0 +1,79 @@
+body {
+   background-color:rgb(240, 240, 240);
+} 
+
+nav {
+    height: 15vh;
+}
+.collapse .navbar-collapse{
+    height: 15vh;
+
+}
+.card2 img {
+    height: 300px;
+    width: 300px;
+    margin-left: 80px;
+    text-decoration: none;
+}
+
+.contactanos {
+    border-style: ridge;
+    background-color: rgb(240, 240, 240);
+    border-radius: 8px;
+}
+main {
+    margin: 2rem;
+}
+
+@media (min-width: 576px) {}
+
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {}
+
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+#carouselExampleCaptions img  {
+    height: 60vh;
+
+}
+
+
+}
+
+
+/* X-Large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {
+    
+}
+
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+
+@media (min-width: 1400px) {
+main { 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+}
+
+/**/
+
+
+/* Media Queries */
+
+
+
+
+
+
+
+/**/
+
+
+/* Pseudoclases */
+
